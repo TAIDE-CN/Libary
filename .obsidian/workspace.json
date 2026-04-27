@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "a48e17f403b759e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ff4d501362510b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40328ea0ac933ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生成式语法/初章 - 什么是语素？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "初章 - 什么是语素？"
+            }
+          },
+          {
+            "id": "5c945b2cafd69a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "马克斯韦伯/宗教社会学 宗教与社会/第一章：宗教的起源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章：宗教的起源"
+            }
+          },
+          {
+            "id": "ef83ef510fa581b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "马克斯韦伯/宗教社会学 宗教与社会/第一章：宗教的起源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章：宗教的起源"
+            }
+          },
+          {
+            "id": "a0e25d09044571e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "马克斯韦伯/宗教社会学 宗教与社会/第二章：巫师——祭司.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章：巫师——祭司"
+            }
+          },
+          {
+            "id": "d87c11b9d644150c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "c62d43c0bf375f55",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "3a019cf93ed2e28c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02964d69c11aa164",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee907902eeebd7fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "871031aa444e8470",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fd3b1cdc82d68ee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "87dc684208e882cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bb0f8d271dfd868c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05ed1eaab838d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05ea07ada7b7e5af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "书籍/博弈论/0. 博弈论导读.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "0. 博弈论导读 的反向链接列表"
+            }
+          },
+          {
+            "id": "825ec5200743e150",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "423dc3f2da50fe66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a404a0aaf2750436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d65b352b83c92078",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3a019cf93ed2e28c",
+  "lastOpenFiles": [
+    "哲学史/7.5 安瑟伦的本体论.md",
+    "Untitled.base",
+    "哲学史/9.1 中世纪的结束.md",
+    "哲学史/哲学研究方法.md",
+    "哲学史/Pasted image 20250602132518.png",
+    "哲学史/Pasted image 20250530135922.png",
+    "哲学史/Pasted image 20250530002731.png",
+    "哲学史/Pasted image 20250529224350.png",
+    "哲学史/Pasted image 20250529224338.png",
+    "哲学史/8.1 阿奎那和他的中世纪晚期的继承者.md",
+    "哲学史/7.4 解决共相的新方法.md",
+    "哲学史/7.3 爱留根纳.md",
+    "哲学史/7.2 伪狄奥尼修斯.md",
+    "哲学史/7.1 波爱修斯.md",
+    "哲学史/6. 奥古斯丁 - 希波的奥古斯丁.md",
+    "拉丁语/拉丁语入门.md",
+    "书籍/博弈论/1 INTRODUCTION.md",
+    "书籍/博弈论/0. 博弈论导读.md",
+    "康德/Introduction The starry heavens and the moral law.md",
+    "拉丁语/印欧语系图谱.png",
+    "书籍/景观社会/全文.md",
+    "书籍/景观社会/景观社会第一章.md",
+    "马克斯韦伯/宗教社会学 宗教与社会/第二章：巫师——祭司.md",
+    "马克斯韦伯/宗教社会学 宗教与社会/第一章：宗教的起源.md",
+    "康德",
+    "生成式语法/初章 - 什么是语素？.md",
+    "马克斯韦伯/宗教社会学 宗教与社会/Untitled",
+    "马克斯韦伯/新教伦理与资本主义社会",
+    "马克斯韦伯/宗教社会学 宗教与社会",
+    "马克斯韦伯",
+    "生成式语法",
+    "拉丁语/Pasted image 20250718154715.png",
+    "拉丁语/Untitled",
+    "拉丁语",
+    "书籍/博弈论/导读附图.png",
+    "书籍/博弈论",
+    "哲学史/Pasted image 20250530002904.png",
+    "6.md",
+    "5.md",
+    "3.md",
+    "Excalidraw/Drawing 2025-05-10 23.50.26.excalidraw.md",
+    "哲学史/哲学史.md",
+    "未命名.canvas",
+    "书籍/景观社会/未命名.md",
+    "2025-05-04.md",
+    "Untitled.canvas"
+  ]
+}
